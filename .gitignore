@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.airflow
+logs/
+.venv/
+.idea/
+.vscode/
+prompt.txt
+*.drawio
+*.bkp
+create_folders.sh
